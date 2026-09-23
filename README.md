@@ -124,5 +124,3 @@ Through this project, I gained practical experience in:
 
 **Vaibhav Kumar**
 Linkedin - www.linkedin.com/in/vaibhav-kumar-261162364
-
-This project is intended for educational and learning purposes. Add an appropriate open-source license, such as the MIT License, if you want others to reuse or modify your code under its terms.
